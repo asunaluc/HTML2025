@@ -1,17 +1,17 @@
 #titulo-principal {
-    background-color: black;
-    color: red;
+    background-color: black; /* altera a cor do fundo */
+    color: red; /* altera a cor */
 }
 
 .numerados {
-    font-family: 'Courier New', Courier, monospace;
-    color: blueviolet;
-    background-color: yellowgreen;
+    font-family: 'Courier New', Courier, monospace; /* altera a fonte */
+    color: blueviolet; /* altera a cor */
+    background-color: yellowgreen; /* ltera a cor do fundo */
 }
 
 #p1 {
-    background-color: blue;
-    color: yellow;
+    background-color: blue; /* altera a cor do fundo */
+    color: yellow; /* altera a cor */
 }
 
 #p2 {
