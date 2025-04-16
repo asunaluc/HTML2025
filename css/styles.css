@@ -1,52 +1,52 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    color: white;
-    background-color: #333;
-    padding: 0;
-    margin: 0;
+    font-family: Arial, Helvetica, sans-serif; /* altera a fonte */
+    text-align: center; /* altera o alinhamento do texto para o centro */
+    color: white; /* altera a cor */
+    background-color: #333; /* altera a cor do fundo */
+    padding: 0; /* sem espaço no preenchimento */
+    margin: 0; /* diminui a margem para 0 */
 }
 
 nav {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    align-items: center;
-    border-bottom: 1px solid #666;
+    display: flex; /* */
+    justify-content: space-between; /* */
+    padding: 20px; /* espaço no preenchimento de 20 px */
+    align-items: center; /* alinha os itens ao centro */
+    border-bottom: 1px solid #666; /* adicona umna borda em baixo de 1px */
 }
 
 nav ul {
-    display: flex;
-    list-style: none;
+    display: flex; /*  nav flexivel e responsivo */
+    list-style: none; /* remove os marcadores de lista */
 }
 
 ul li {
-    margin-right: 12px;
+    margin-right: 12px; /* margem a direta de 12px */
 }
 
 ul li a {
-    color: #fff;
-    text-decoration: none;
-    transition: 0.5s;
+    color: #fff; /* altera a cor */
+    text-decoration: none; /* sem decoração do texto */
+    transition: 0.5s; /* um atraso na tansição de 0.5 segundos */
 }
 
 ul li a:hover {
-    color: rgb(15,120,150);
+    color: rgb(15,120,150); /* altera a cor */
 }
 
 h1 {
-    font-size: 32px;
-    color: darkorange;    
+    font-size: 32px; /* altera o tamanho da fonte */
+    color: darkorange;  /* altera a cor */   
 }
 
 img {
-    border: 3px solid rgb(15,194,218);
-    height: 300px;
+    border: 3px solid rgb(15,194,218); /* adiciona uma borda de 3px */
+    height: 300px; /* altera a altura da imagem para 300px */
 }
 
 footer {
-    padding:  20px;
-    border-top: 1px solid #666;
-    margin-top: 20px;
+    padding:  20px; /* espaço no preenchimento de 20 px */
+    border-top: 1px solid #666; /* adiona umaa borda no topo de 20 px */
+    margin-top: 20px; /* adiciona uma margem no topo de 20px */
 }
 
